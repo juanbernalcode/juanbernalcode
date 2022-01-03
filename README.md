@@ -24,18 +24,17 @@ hay mucho mas que quisiera contar...
 
 
 
-## Perfiles sociales
+## Social Profiles (Perfiles sociales)
 
 - [Github](https://github.com/juanbernalcode)
 - [Linkedin](https://www.linkedin.com/in/juan-alberto-50a680190/)
 - [Website](#)
 
-## Experiencia Tecnica
+## Technical background (Experiencia Tecnica)
 
-> En una escala de 1 a 5 como te sientes tecnicamente en esto temas: ⭐️⭐️⭐️⭐️⭐️
 
-- Programacion: ⭐️⭐️⭐️⭐️
+- Programing: ⭐️⭐️⭐️⭐️
 - Javascript: ⭐️⭐️⭐️⭐️
-- CSS: ⭐️⭐️
+- CSS: ⭐️⭐️⭐️
 - HTML: ⭐️⭐️⭐️⭐️
-- Git: ⭐️⭐️
+- Git: ⭐️⭐️⭐️
