@@ -28,7 +28,7 @@ hay mucho mas que quisiera contar...
 
 - [Github](https://github.com/juanbernalcode)
 - [Linkedin](https://www.linkedin.com/in/juan-alberto-50a680190/)
-- [Website](#)
+
 
 ## Technical background (Experiencia Tecnica)
 
