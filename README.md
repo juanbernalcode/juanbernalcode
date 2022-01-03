@@ -11,7 +11,7 @@ I like the frontend and the backend. I have a great taste for Javascript technol
 
 there is much more that I would like to tell ...
 
-</hr>
+<hr>
 
 Hola mundo!<br>
 Soy un joven apasionado por las Ciencias de la Computacion y futuro gran ingeniero de Software, ademas de ser musico que es mi otro arte (considero la programacion como ciencia y como arte), soy de Colombia y egresado de la Tecnica en Programacion de Software del SENA.
