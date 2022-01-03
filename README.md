@@ -1,5 +1,5 @@
 
-<h1 align="center">console.log("Hello World! I'm Verónica Alcaraz 👋🏽")</h1>
+<h1 align="center">console.log("Hello World! I'm Juan Alberto Bernal 👋🏽")</h1>
 
 <p align="center"><img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fmakeitreal.camp%2Fassets%2Flogo-black-baffa903a5ee8ad3c94f085fd551487207b3eeae296f2331880f8004b2af7743.png&imgrefurl=https%3A%2F%2Fmakeitreal.camp%2F&tbnid=04rupQOp_7rAPM&vet=12ahUKEwjZ6cns0JT1AhVLwikDHeNwCy8QMygAegUIARCqAQ..i&docid=zXqwtopgrOJaTM&w=360&h=86&itg=1&q=makeitreal&ved=2ahUKEwjZ6cns0JT1AhVLwikDHeNwCy8QMygAegUIARCqAQ" alt="computer" width="350"></p>
 
